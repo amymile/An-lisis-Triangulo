@@ -1,1 +1,1 @@
-# An-lisis-Triangulo
+# Analisis-Triangulo
